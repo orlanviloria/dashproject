@@ -1,3 +1,5 @@
+#https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Dash_More_Advanced_Shit/CRUD_app/crud.py
+#https://stackoverflow.com/questions/60223161/using-dash-upload-component-to-upload-csv-file-and-generate-a-graph
 import base64
 import datetime
 import io
